@@ -17,14 +17,16 @@ h2 {
 
 
 .messages {
-	width: 500px;
+	width: 400px;
 	margin: 50px auto auto auto;
 }
 
 .input-name {
-	width: 500px;
+	width: 400px;
 	margin: 0 auto 10px auto;
 }
+
+
 
 .hidden {
 	display: none;
